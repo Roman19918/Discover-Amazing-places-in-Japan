@@ -258,7 +258,7 @@ img {
   color: #ffffff;
 }
 
-.search-form__sumbit {
+.search-form__submit {
   padding: 15px 39px;
   text-transform: uppercase;
   font-weight: 500;
@@ -267,9 +267,9 @@ img {
   background: #1b7dff;
 }
 
-.search-form__sumbit:hover,
-.search-form__sumbit:focus,
-.search-form__sumbit:active {
+.search-form__submit:hover,
+.search-form__submit:focus,
+.search-form__submit:active {
   background-color: #0a499e;
 }
 
